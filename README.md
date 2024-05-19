@@ -4,7 +4,6 @@
 ### Member 3 - IT21229398 - Bandara A.M.B.S
 ### Member 4 - IT21233876 - Hasanka G.S
 
-#### Brief Description of your Solution - Our fitness social media platform enables users to share photos and videos showcasing their fitness 
 activities and healthy meals, with a limit of three uploads per post. Users can also provide descriptions 
 for each post. Additionally, they can share real-time workout status updates, inputting metrics like 
 distance run or weights lifted using predefined templates. The platform allows users to exchange 
